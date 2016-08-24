@@ -1,0 +1,12 @@
+{
+  "name": "learn-travis-cosmin",
+  "description": "Simple Travis-CI check for JSHint (Code Linting)",
+  "author": "cosmin",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  },
+  "scripts": {
+    "test": "./node_modules/jshint/bin/jshint hello.hs"
+  }
+}
