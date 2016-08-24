@@ -1,6 +1,2 @@
-#A simple Node.Js server
-
-Motivation:
-- learn how to javascript
-- learn how to create a simple node.js server
-- use travis CI to build the project
+#Project-Euler
+Some of my solutions for the problems from [Project Euler](https://projecteuler.net/)
